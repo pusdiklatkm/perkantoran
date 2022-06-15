@@ -1,0 +1,25 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <meta charset="utf-8">
+    <title>Chat Box</title>
+    <style>
+    body{
+    margin:0;
+    padding:0;
+    }
+    .box{
+    width:100%;
+    height:100vh;
+    overflow:hidden;
+    }
+    </style>
+    </head>
+    <body>
+    <div class="box">
+  <script id="cid0020000316269653102" data-cfasync="false" src="//st.chatango.com/js/gz/emb.js" style="width: 250px;height: 350px;">{"handle":"ppsdm","arch":"js","styles":{"a":"33ccff","b":100,"c":"000000","d":"000000","k":"33ccff","l":"33ccff","m":"33ccff","p":"10","q":"33ccff","r":100,"fwtickm":1}}</script>
+
+    </div>
+    </body>
+    </html>
